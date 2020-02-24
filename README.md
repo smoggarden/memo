@@ -1,6 +1,6 @@
 # Recommendations générales
 * Se laver les mains :
-  * Bien
+  * Bien (Sinon ça ne sert à rien)
   * Fréquemment
 * Ne pas se toucher le visage
 * Ne pas rester près des gens louches (toux, etc.)
