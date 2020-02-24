@@ -1,10 +1,12 @@
 # Recommendations générales
+```markdown
 * Se laver les mains :
   * Bien (Sinon ça ne sert à rien)
   * Fréquemment
 * Ne pas se toucher le visage (le virus peut passer par les yeux, le nez et la bouche).
 * Ne pas rester près des gens louches (toux, etc.)
 * Faire attention aux toilettes (fermer le capot avant de tirer la chasse)
+```
 
 ## Exemples
 ### Maison
