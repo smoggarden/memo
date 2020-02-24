@@ -1,3 +1,12 @@
+# Recommendations générales
+* Se laver les mains.
+* Ne pas se toucher le visage.
+* Ne pas rester près des gens louches (toux, etc.).
+
+# Bonnes pratiques
+# Repas
+# Maison
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/smoggarden/memo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
