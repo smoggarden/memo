@@ -1,12 +1,10 @@
 # Recommendations générales
-```markdown
 * Se laver les mains :
   * Bien
   * Fréquemment
 * Ne pas se toucher le visage
 * Ne pas rester près des gens louches (toux, etc.)
 * Faire attention aux toilettes (fermer le capot avant de tirer la chasse)
-```
 
 ## Exemples
 ### Maison
@@ -14,3 +12,5 @@
 * Laver à la javel.
 ### Repas
 
+```markdown
+```
