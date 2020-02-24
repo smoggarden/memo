@@ -9,7 +9,7 @@
 ## Exemples
 ### Maison
 * Se laver les mains dès qu'on rentre, pour éviter de propager dans la maison. Mettre un gel dans l'entrée, comme dans les hôpitaux.
-* Laver à la javel diluée.
+* Laver les surfaces à la javel diluée.
 * Aérer ?
 ### Repas
 
