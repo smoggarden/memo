@@ -1,4 +1,5 @@
 # Recommendations générales
+
 ```markdown
 * Se laver les mains :
   * Bien (Sinon ça ne sert à rien)
