@@ -14,3 +14,7 @@
 
 ```markdown
 ```
+# Informations sur le virus
+## Résistance
+* jusqu'à 9 jours sur une surface à température ambiante.
+* Jusqu'à 28 jours à 4°c.
