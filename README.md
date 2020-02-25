@@ -24,8 +24,8 @@
 * Minimum : 0 jours
 * Maximum : 28 jours
 ### Symptômes [[1]](https://www.medrxiv.org/content/10.1101/2020.02.06.20020974v1)
-* Fièvre : 44 % (88 % pour les cas hospitalisés)
-* Toux : (68 % pour les cas hospitalisés)
+* Fièvre : 44 % au moment de se présenter devant un médecin, 88 % après hospitalisation.
+* Toux : 68 % pour les cas hospitalisés
 ## Résistance
 * jusqu'à 9 jours sur une surface à température ambiante [[1]](https://www.reddit.com/r/COVID19/comments/f8bpur/persistence_of_coronaviruses_on_inanimate/)
 * Jusqu'à 28 jours à 4°c.
