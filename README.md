@@ -9,7 +9,7 @@
 ## Exemples
 ### Maison
 * Se laver les mains dès qu'on rentre, pour éviter de propager dans la maison. Mettre un gel dans l'entrée, comme dans les hôpitaux.
-* Laver les surfaces à la javel diluée à 0,1-0.2 %. Plus forte concentration reste efficace, mais peut abimer les objets. [1](https://www.reddit.com/r/COVID19/comments/f8bpur/persistence_of_coronaviruses_on_inanimate/)
+* Laver les surfaces à la javel diluée. 
 * Aérer ?
 ### Repas
 * Ne pas toucher le téléphone pendant le repas. Ou alors se relaver les mains juste après.
@@ -24,5 +24,5 @@
 ## Sensibilité
 * Savon
 * Gel hydroalcoolique
-* Javel diluée
+* Javel diluée à 0,1-0,2 %. Plus forte concentration reste efficace, mais peut abimer les objets. [1](https://www.reddit.com/r/COVID19/comments/f8bpur/persistence_of_coronaviruses_on_inanimate/)
 * Alcool : sopropyl Alcohol/Isopropanol/Rubbing Alcohol à 70 %. (Pas l'éthanol, pas l'alcool à 90 %). [1](https://www.reddit.com/r/COVID19/comments/f8bpur/persistence_of_coronaviruses_on_inanimate/)
