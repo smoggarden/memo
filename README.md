@@ -20,8 +20,8 @@
 # Informations sur le virus
 ## Porteur
 ### Période d'incubation [[1]](https://www.medrxiv.org/content/10.1101/2020.02.06.20020974v1)
-* Médiane : 3 jours
 * Minimum : 0 jours
+* Médiane : 3 jours
 * Maximum : 28 jours
 ### Symptômes [[1]](https://www.medrxiv.org/content/10.1101/2020.02.06.20020974v1)
 * Fièvre : 44 % au moment de se présenter devant un médecin, 88 % après hospitalisation.
