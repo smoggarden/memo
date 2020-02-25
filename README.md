@@ -19,10 +19,13 @@
 
 # Informations sur le virus
 ## Porteur
-* Période d'incubation [[1]](https://www.medrxiv.org/content/10.1101/2020.02.06.20020974v1)
-  * médiane : 3 jours
-  * minimum : 0 jours
-  * maximum : 28 jours
+### Période d'incubation [[1]](https://www.medrxiv.org/content/10.1101/2020.02.06.20020974v1)
+* Médiane : 3 jours
+* Minimum : 0 jours
+* Maximum : 28 jours
+### Symptômes [[1]](https://www.medrxiv.org/content/10.1101/2020.02.06.20020974v1)
+* Fièvre : 88 %
+* Toux : 68 %
 ## Résistance
 * jusqu'à 9 jours sur une surface à température ambiante [[1]](https://www.reddit.com/r/COVID19/comments/f8bpur/persistence_of_coronaviruses_on_inanimate/)
 * Jusqu'à 28 jours à 4°c.
