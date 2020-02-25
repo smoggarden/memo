@@ -22,5 +22,6 @@
 * Jusqu'à 28 jours à 4°c.
 ## Sensibilité
 * Savon
-* Gel hydroalcoolique (sopropyl Alcohol/Isopropanol/Rubbing Alcohol à 70 %. Pas l'éthanol, pas l'alcool à 90 %).
+* Gel hydroalcoolique
 * Javel diluée
+* Alcool : sopropyl Alcohol/Isopropanol/Rubbing Alcohol à 70 %. (Pas l'éthanol, pas l'alcool à 90 %).
