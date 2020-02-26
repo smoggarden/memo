@@ -41,6 +41,7 @@ Plusieurs façons d'attraper :
 * Minimum : 0 jours
 * Médiane : 3-5 jours
 * Maximum : 28 jours
+* Quarantaine recommandée : 14 jours
 ### Symptômes [[1]](https://www.medrxiv.org/content/10.1101/2020.02.06.20020974v1)
 * Fièvre : 44 % au moment de se présenter devant un médecin, 88 % après hospitalisation.
 * Toux : 68 % pour les cas hospitalisés
