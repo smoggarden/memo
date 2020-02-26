@@ -74,12 +74,12 @@ Il est présent :
 * Le système immunitaire arrive à créer l'immunité en dix jours après l'apparition des symptômes. Le tout est d'éviter les complications. 
 
 # Liens utiles
-* [Twitter du ministère français](https://twitter.com/MinSoliSante)
-* [Gouvernement](https://www.gouvernement.fr/)
 * [Santé publique française](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/covid-19-situation-epidemiologique-internationale)
+* [Twitter du ministère français](https://twitter.com/MinSoliSante)
 * [L'organisation mondiale de la santé](https://www.who.int/fr) (OMS en français, WHO en anglais)
 * [L'Institut Pasteur](https://www.pasteur.fr/fr/centre-medical/fiches-maladies/coronavirus-wuhan)
 * [/r/covid19](https://www.reddit.com/r/covid19) : Forum très bien filtré avec approche médicale
 * [/r/coronavirus](https://www.reddit.com/r/coronavirus) : Forum assez bien filtré, moins rigoureux que /r/covid19, mais plus fourni.
 * [Live Reddit](https://www.reddit.com/live/14d816ty1ylvo/)
+* [Gouvernement](https://www.gouvernement.fr/)
 
