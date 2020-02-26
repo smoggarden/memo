@@ -29,8 +29,7 @@ Mais pas par la peau.
 Il est présent : 
 * Dans la salive
 * La toux
-* Le caca [[1]](https://www.livescience.com/coronavirus-covid-19-spread-through-feces.html)
-* Le pipi [[1]](https://www.livescience.com/coronavirus-covid-19-spread-through-feces.html)
+* Le caca et pipi [[1]](https://www.livescience.com/coronavirus-covid-19-spread-through-feces.html)
 * Potentiellement l'air ambiant (La Chine l'affirme).
 
 Plusieurs façons d'attraper :
