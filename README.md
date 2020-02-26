@@ -60,7 +60,7 @@ Il est présent :
 
 ## Sensibilité
 * Savon
-* Gel hydroalcoolique
+* Gel hydroalcoolique (Par ex : [ANIOSGEL 85 NPC](https://www.phimedical.fr/desinfection/hygiene-des-mains/gel-hydroalcoolique-aniosgel-85-npc-flacon-de-1-l-au-choix.html?search_query=aniosgel&results=5))
 * Javel diluée à 0,1-0,2 %. Plus forte concentration reste efficace, mais peut abimer les objets. [[1]](https://www.reddit.com/r/COVID19/comments/f8bpur/persistence_of_coronaviruses_on_inanimate/)
 * Alcool : Sopropyl Alcohol/Isopropanol/Rubbing Alcohol à 70 %. (Pas l'éthanol, pas l'alcool à 90 %). [[1]](https://www.reddit.com/r/COVID19/comments/f8bpur/persistence_of_coronaviruses_on_inanimate/)
 
@@ -69,10 +69,10 @@ Il est présent :
 * Le système immunitaire arrive à créer l'immunité en dix jours après l'apparition des symptômes. Le tout est d'éviter les complications. 
 
 # Liens utiles
-* [[Twitter du ministère français]](https://twitter.com/MinSoliSante)
-* [[Gouvernement]](https://www.gouvernement.fr/)
-* [[L'organisation mondiale de la santé]](https://www.who.int/fr)(OMS en français, WHO en anglais)
-* [[/r/covid19]](https://www.reddit.com/r/covid19) : Forum très bien filtré avec approche médicale
-* [[/r/coronavirus]](https://www.reddit.com/r/coronavirus) : Forum assez bien filtré, moins rigoureux que /r/covid19, mais plus fourni.
-* [[Live Reddit]](https://www.reddit.com/live/14d816ty1ylvo/)
+* [Twitter du ministère français](https://twitter.com/MinSoliSante)
+* [Gouvernement](https://www.gouvernement.fr/)
+* [L'organisation mondiale de la santé](https://www.who.int/fr)(OMS en français, WHO en anglais)
+* [/r/covid19](https://www.reddit.com/r/covid19) : Forum très bien filtré avec approche médicale
+* [/r/coronavirus](https://www.reddit.com/r/coronavirus) : Forum assez bien filtré, moins rigoureux que /r/covid19, mais plus fourni.
+* [Live Reddit](https://www.reddit.com/live/14d816ty1ylvo/)
 
