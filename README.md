@@ -11,7 +11,7 @@
   1. On rentre à la maison
   1. On se lave les mains => Mains propres
   1. On prend son téléphone => Mains sales
-  1. On retouche le visage.
+  1. On retouche le visage et c'est le drame.
 * Pareil pour les poignées de porte.
   
 ### Maison
