@@ -17,11 +17,9 @@
 * Se laver les mains dès qu'on rentre, pour éviter de propager dans la maison. Mettre un gel dans l'entrée, comme dans les hôpitaux.
 * Laver les surfaces à la javel diluée. 
 * Aérer ?
+
 ### Repas
 * Ne pas toucher le téléphone pendant le repas. Ou alors se relaver les mains juste après.
-
-```markdown
-```
 
 # Informations sur le virus
 * La maladie : COVID-19
