@@ -25,6 +25,7 @@
 * La maladie : COVID-19
 * Le virus : SARS-CoV-2 (à ne pas confondre avec le SARS-CoV de 2003)
 * La famille des coronavirus : Le SARS-CoV-2, le SARS-CoV, le MERS-CoV (Moyen-Orient, 2012), le rhume classique, etc.
+
 ## Mode de propagation
 Le virus passe par : 
 * Les yeux
@@ -42,18 +43,23 @@ Plusieurs façons d'attraper :
 * En touchant le visage après avoir touché une surface contaminée.
 * Proximité avec une personne contaminée.
 * Toilettes : la chasse d'eau vaporise le virus dans l'air ambiant.
+
 ## Porteur
+
 ### Période d'incubation [[1]](https://www.medrxiv.org/content/10.1101/2020.02.06.20020974v1)
 * Minimum : 0 jours
 * Médiane : 3-5 jours
 * Maximum : 28 jours
 * Quarantaine recommandée : 14 jours
+
 ### Symptômes [[1]](https://www.medrxiv.org/content/10.1101/2020.02.06.20020974v1)
 * Fièvre : 44 % au moment de se présenter devant un médecin, 88 % après hospitalisation.
 * Toux : 68 % pour les cas hospitalisés
+
 ## Résistance
 * jusqu'à 9 jours à température ambiante, sur une surface [[1]](https://www.reddit.com/r/COVID19/comments/f8bpur/persistence_of_coronaviruses_on_inanimate/)
 * Jusqu'à 28 jours à 4°c.
+
 ## Sensibilité
 * Savon
 * Gel hydroalcoolique
