@@ -47,3 +47,5 @@ Le virus s'appelle
 * [[Twitter du ministère français]](https://twitter.com/MinSoliSante)
 * [[Gouvernement]](https://www.gouvernement.fr/)
 * [[L'organisation mondiale de la santé]](https://www.who.int/fr)(OMS en français, WHO en anglais)
+* [[/r/covid19]](https://www.reddit.com/r/covid19) : Forum très bien filtré avec approche médicale
+* [[/r/coronavirus]](https://www.reddit.com/r/coronavirus) : Forum assez bien filtré, moins rigoureux que /r/covid19, mais plus fourni.
