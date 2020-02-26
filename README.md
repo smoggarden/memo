@@ -1,7 +1,7 @@
 # Recommendations générales
-* Se laver les mains :
+* Se laver les mains [[1]](https://www.ameli.fr/assure/sante/themes/gestes-barrieres/les-4-gestes-barrieres-adopter-pour-limiter-la-transmission-des-virus-de-lhiver) :
   * Bien (Sinon ça ne sert à rien)
-  * Fréquemment
+  * Le plus possible
 * Ne pas se toucher le visage (le virus peut passer par les yeux, le nez et la bouche).
 * Ne pas rester près des gens louches (toux, etc.)
 * Faire attention aux toilettes (fermer le capot avant de tirer la chasse)
@@ -20,6 +20,10 @@
 ```
 
 # Informations sur le virus
+Le virus s'appelle 
+## Mode de propagation
+* Le virus peut se trouver sur n'importe quel surface.
+* 
 ## Porteur
 ### Période d'incubation [[1]](https://www.medrxiv.org/content/10.1101/2020.02.06.20020974v1)
 * Minimum : 0 jours
