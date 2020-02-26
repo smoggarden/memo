@@ -5,6 +5,14 @@
 * Faire attention aux toilettes (fermer le capot avant de tirer la chasse)
 
 ## Exemples
+### Général
+* Il faut considérer le téléphone comme contaminé. Exemple : 
+  1. On touche le téléphone dans la rue
+  2. On rentre à la maison
+  3. On se lave les mains => Mains propres
+  4. On prend son téléphone => Mains sales
+  5. On retouche le visage.
+  
 ### Maison
 * Se laver les mains dès qu'on rentre, pour éviter de propager dans la maison. Mettre un gel dans l'entrée, comme dans les hôpitaux.
 * Laver les surfaces à la javel diluée. 
@@ -33,7 +41,7 @@ Il est présent :
 * Potentiellement l'air ambiant (La Chine l'affirme).
 
 Plusieurs façons d'attraper :
-* En touchant le visage avec des mains qui ont touché une surface contaminée.
+* En touchant le visage après avoir touché une surface contaminée.
 * Proximité avec une personne contaminée.
 * Toilettes : la chasse d'eau vaporise le virus dans l'air ambiant.
 ## Porteur
