@@ -65,8 +65,8 @@ Il est présent :
 * Gel hydroalcoolique (Par ex : [ANIOSGEL 85 NPC](https://www.phimedical.fr/desinfection/hygiene-des-mains/gel-hydroalcoolique-aniosgel-85-npc-flacon-de-1-l-au-choix.html?search_query=aniosgel&results=5))
 
 ## Surfaces
-* Javel diluée à 0,1-0,2 %. Plus forte concentration reste efficace, mais peut abimer les objets. [[1]](https://www.reddit.com/r/COVID19/comments/f8bpur/persistence_of_coronaviruses_on_inanimate/)
-* Alcool : Sopropyl Alcohol/Isopropanol/Rubbing Alcohol à 70 %. (Pas l'éthanol, pas l'alcool à 90 %). [[1]](https://www.reddit.com/r/COVID19/comments/f8bpur/persistence_of_coronaviruses_on_inanimate/)
+* Javel diluée à 0,1-0,2 %. Plus forte concentration reste efficace, mais peut abimer les objets. [[1]](https://www.reddit.com/r/COVID19/comments/f8bpur/persistence_of_coronaviruses_on_inanimate/) (Attention à ne pas mélanger la javel avec ce qui est acide, ça crée des vapeurs toxiques dangereuses).
+* Alcool : Sopropyl Alcohol/Isopropanol/Rubbing Alcohol à 70 %. (Pas l'éthanol, pas l'alcool à 90 %). [[1]](https://www.reddit.com/r/COVID19/comments/f8bpur/persistence_of_coronaviruses_on_inanimate/) (Attention, inflammable).
 
 # Traitement 
 * Il n'y a pour l'instant aucun traitement direct. Il y a des tentatives de traitement indirects (des symptômes).
