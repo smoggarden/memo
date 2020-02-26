@@ -42,3 +42,8 @@ Le virus s'appelle
 # Traitement 
 * Il n'y a pour l'instant aucun traitement direct. Il y a des tentatives de traitement indirects (des symptômes).
 * Le système immunitaire arrive à créer l'immunité en dix jours après l'apparition des symptômes. Le tout est d'éviter les complications. 
+
+# Sources
+* [[Twitter du ministère français]](https://twitter.com/MinSoliSante)
+* [[Gouvernement]](https://www.gouvernement.fr/)
+* [[L'organisation mondiale de la santé]](https://www.who.int/fr)(OMS en français, WHO en anglais)
