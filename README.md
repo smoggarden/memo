@@ -16,10 +16,27 @@
 ```
 
 # Informations sur le virus
-Le virus s'appelle 
+* La maladie : COVID-19
+* Le virus : SARS-CoV-2 (à ne pas confondre avec le SARS-CoV de 2003)
+* La famille des coronavirus : Le SARS-CoV-2, le SARS-CoV, le MERS-CoV (Moyen-Orient, 2012), le rhume classique, etc.
 ## Mode de propagation
-* Le virus peut se trouver sur n'importe quel surface.
-* 
+Le virus passe par : 
+* Les yeux
+* La bouche
+* Le nez. 
+Mais pas par la peau.
+
+Il est présent : 
+* Dans la salive
+* La toux
+* Le caca
+* Le pipi
+* Potentiellement l'air ambiant (La Chine l'affirme).
+
+Plusieurs façons d'attraper :
+* En touchant le visage avec des mains qui ont touché une surface contaminée.
+* Proximité avec une personne contaminée.
+* Toilettes : la chasse d'eau vaporise le virus dans l'air ambiant.
 ## Porteur
 ### Période d'incubation [[1]](https://www.medrxiv.org/content/10.1101/2020.02.06.20020974v1)
 * Minimum : 0 jours
