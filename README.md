@@ -19,7 +19,7 @@
 * Aérer ?
 
 ### Repas
-* Ne pas toucher le téléphone pendant le repas. Ou alors se relaver les mains juste après.
+* Ne rien toucher de risqué pendant la préparation du repas et le repas (par ex : téléphone). Ou alors se relaver les mains juste après.
 
 # Informations sur le virus
 * La maladie : COVID-19
