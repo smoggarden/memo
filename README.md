@@ -1,6 +1,6 @@
 # Recommandations générales
 * Se laver les mains **bien** et **souvent** [[1]](https://www.ameli.fr/assure/sante/themes/gestes-barrieres/les-4-gestes-barrieres-adopter-pour-limiter-la-transmission-des-virus-de-lhiver)[[2]](https://www.who.int/fr/emergencies/diseases/novel-coronavirus-2019/advice-for-public)
-* Ne pas se toucher le visage (le virus peut passer par les yeux, le nez et la bouche).
+* Ne pas se toucher le visage.
 * Ne pas rester près des gens louches (toux, etc.)
 * Faire attention aux toilettes (fermer le capot avant de tirer la chasse)
 
