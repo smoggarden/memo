@@ -5,6 +5,7 @@
 * Ne pas se toucher le visage (le virus peut passer par les yeux, le nez et la bouche).
 * Ne pas rester près des gens louches (toux, etc.)
 * Faire attention aux toilettes (fermer le capot avant de tirer la chasse)
+* Ne pas être en carence de zinc [[1]](https://www.reddit.com/r/COVID19/comments/f9rkrx/inhibition_of_coronavirus_by_zincstudy/)
 
 ## Exemples
 ### Maison
