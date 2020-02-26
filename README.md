@@ -6,12 +6,13 @@
 
 ## Exemples
 ### Général
-* Il faut considérer le téléphone comme contaminé. Exemple : 
+* Il faut considérer le téléphone comme contaminé : 
   1. On touche le téléphone dans la rue
   1. On rentre à la maison
   1. On se lave les mains => Mains propres
   1. On prend son téléphone => Mains sales
   1. On retouche le visage.
+* Pareil pour les poignées de porte.
   
 ### Maison
 * Se laver les mains dès qu'on rentre, pour éviter de propager dans la maison. Mettre un gel dans l'entrée, comme dans les hôpitaux.
