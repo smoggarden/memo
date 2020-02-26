@@ -76,6 +76,7 @@ Il est présent :
 # Liens utiles
 * [Twitter du ministère français](https://twitter.com/MinSoliSante)
 * [Gouvernement](https://www.gouvernement.fr/)
+* [Santé publique française](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/covid-19-situation-epidemiologique-internationale)
 * [L'organisation mondiale de la santé](https://www.who.int/fr) (OMS en français, WHO en anglais)
 * [L'Institut Pasteur](https://www.pasteur.fr/fr/centre-medical/fiches-maladies/coronavirus-wuhan)
 * [/r/covid19](https://www.reddit.com/r/covid19) : Forum très bien filtré avec approche médicale
