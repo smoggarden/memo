@@ -77,6 +77,7 @@ Il est présent :
 * [Twitter du ministère français](https://twitter.com/MinSoliSante)
 * [Gouvernement](https://www.gouvernement.fr/)
 * [L'organisation mondiale de la santé](https://www.who.int/fr)(OMS en français, WHO en anglais)
+* [L'Institut Pasteur](https://www.pasteur.fr/fr/centre-medical/fiches-maladies/coronavirus-wuhan)
 * [/r/covid19](https://www.reddit.com/r/covid19) : Forum très bien filtré avec approche médicale
 * [/r/coronavirus](https://www.reddit.com/r/coronavirus) : Forum assez bien filtré, moins rigoureux que /r/covid19, mais plus fourni.
 * [Live Reddit](https://www.reddit.com/live/14d816ty1ylvo/)
