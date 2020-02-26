@@ -1,7 +1,5 @@
 # Recommendations générales
-* Se laver les mains [[1]](https://www.ameli.fr/assure/sante/themes/gestes-barrieres/les-4-gestes-barrieres-adopter-pour-limiter-la-transmission-des-virus-de-lhiver) :
-  * Bien (Sinon ça ne sert à rien)
-  * Le plus possible
+* Se laver les mains **bien** et **souvent** [[1]](https://www.ameli.fr/assure/sante/themes/gestes-barrieres/les-4-gestes-barrieres-adopter-pour-limiter-la-transmission-des-virus-de-lhiver)
 * Ne pas se toucher le visage (le virus peut passer par les yeux, le nez et la bouche).
 * Ne pas rester près des gens louches (toux, etc.)
 * Faire attention aux toilettes (fermer le capot avant de tirer la chasse)
