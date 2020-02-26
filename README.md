@@ -41,11 +41,6 @@ Il est présent :
 * Le caca et pipi [[1]](https://www.livescience.com/coronavirus-covid-19-spread-through-feces.html)
 * Potentiellement l'air ambiant (La Chine l'affirme).
 
-Plusieurs façons d'attraper :
-* En touchant le visage après avoir touché une surface contaminée.
-* Proximité avec une personne contaminée.
-* Toilettes : la chasse d'eau vaporise le virus dans l'air ambiant.
-
 ## Porteur
 
 ### Période d'incubation [[1]](https://www.medrxiv.org/content/10.1101/2020.02.06.20020974v1)
