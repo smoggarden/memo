@@ -31,6 +31,7 @@ Le virus passe par :
 * Les yeux
 * La bouche
 * Le nez. 
+
 Mais pas par la peau.
 
 Il est présent : 
