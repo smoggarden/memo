@@ -63,6 +63,7 @@ Il est présent :
 ## Mains
 * Savon
 * Gel hydroalcoolique (Par ex : [ANIOSGEL 85 NPC](https://www.phimedical.fr/desinfection/hygiene-des-mains/gel-hydroalcoolique-aniosgel-85-npc-flacon-de-1-l-au-choix.html?search_query=aniosgel&results=5))
+* Gants latex ou vinyl (Par ex : [MAPA Confort Pro x100](https://www.amazon.fr/Mapa-Gants-M%C3%A9nage-Confort-Taille/dp/B06XWVLDMG), dispo chez Carrefour)
 
 ## Surfaces
 * Javel diluée à 0,1-0,2 %. Plus forte concentration reste efficace, mais peut abimer les objets. [[1]](https://www.reddit.com/r/COVID19/comments/f8bpur/persistence_of_coronaviruses_on_inanimate/) (Attention à ne pas mélanger la javel avec ce qui est acide, ça crée des vapeurs toxiques dangereuses).
