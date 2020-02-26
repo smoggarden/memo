@@ -56,7 +56,7 @@ Il est présent :
 
 ## Résistance
 * jusqu'à 9 jours à température ambiante, sur une surface [[1]](https://www.reddit.com/r/COVID19/comments/f8bpur/persistence_of_coronaviruses_on_inanimate/)
-* Jusqu'à 28 jours à 4°c.
+* Jusqu'à 28 jours à 4°c [[1]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2863430/)
 
 # Protection
 
