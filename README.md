@@ -8,10 +8,10 @@
 ### Général
 * Il faut considérer le téléphone comme contaminé. Exemple : 
   1. On touche le téléphone dans la rue
-  2. On rentre à la maison
-  3. On se lave les mains => Mains propres
-  4. On prend son téléphone => Mains sales
-  5. On retouche le visage.
+  1. On rentre à la maison
+  1. On se lave les mains => Mains propres
+  1. On prend son téléphone => Mains sales
+  1. On retouche le visage.
   
 ### Maison
 * Se laver les mains dès qu'on rentre, pour éviter de propager dans la maison. Mettre un gel dans l'entrée, comme dans les hôpitaux.
@@ -72,4 +72,5 @@ Plusieurs façons d'attraper :
 * [[L'organisation mondiale de la santé]](https://www.who.int/fr)(OMS en français, WHO en anglais)
 * [[/r/covid19]](https://www.reddit.com/r/covid19) : Forum très bien filtré avec approche médicale
 * [[/r/coronavirus]](https://www.reddit.com/r/coronavirus) : Forum assez bien filtré, moins rigoureux que /r/covid19, mais plus fourni.
+* [[Live Reddit]](https://www.reddit.com/live/14d816ty1ylvo/)
 
