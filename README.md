@@ -29,8 +29,8 @@ Mais pas par la peau.
 Il est présent : 
 * Dans la salive
 * La toux
-* Le caca
-* Le pipi
+* Le caca [[1]](https://www.livescience.com/coronavirus-covid-19-spread-through-feces.html)
+* Le pipi [[1]](https://www.livescience.com/coronavirus-covid-19-spread-through-feces.html)
 * Potentiellement l'air ambiant (La Chine l'affirme).
 
 Plusieurs façons d'attraper :
@@ -58,9 +58,10 @@ Plusieurs façons d'attraper :
 * Il n'y a pour l'instant aucun traitement direct. Il y a des tentatives de traitement indirects (des symptômes).
 * Le système immunitaire arrive à créer l'immunité en dix jours après l'apparition des symptômes. Le tout est d'éviter les complications. 
 
-# Sources
+# Liens utiles
 * [[Twitter du ministère français]](https://twitter.com/MinSoliSante)
 * [[Gouvernement]](https://www.gouvernement.fr/)
 * [[L'organisation mondiale de la santé]](https://www.who.int/fr)(OMS en français, WHO en anglais)
 * [[/r/covid19]](https://www.reddit.com/r/covid19) : Forum très bien filtré avec approche médicale
 * [[/r/coronavirus]](https://www.reddit.com/r/coronavirus) : Forum assez bien filtré, moins rigoureux que /r/covid19, mais plus fourni.
+
