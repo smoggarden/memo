@@ -75,6 +75,15 @@ Il est présent :
 * Il n'y a pour l'instant aucun traitement direct. Il y a des tentatives de traitement indirects (des symptômes).
 * Le système immunitaire arrive à créer l'immunité en dix jours après l'apparition des symptômes. Le tout est d'éviter les complications. 
 
+# Contact
+## France
+* Urgences ou pour se signaler : 15
+* Numéro vert pour demander des infos : 0 800 130 000
+
+## Maroc
+* Institut Pasteur : 05 22 26 20 62
+* SOS Médecins Maroc : 05 22 98 98 98
+
 # Liens utiles
 * [Santé publique française](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/covid-19-situation-epidemiologique-internationale)
 * [Twitter du ministère français](https://twitter.com/MinSoliSante)
