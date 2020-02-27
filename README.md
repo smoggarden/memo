@@ -67,6 +67,21 @@ Il est présent :
 * Gel hydroalcoolique (Par ex : [ANIOSGEL 85 NPC](https://www.phimedical.fr/desinfection/hygiene-des-mains/gel-hydroalcoolique-aniosgel-85-npc-flacon-de-1-l-au-choix.html?search_query=aniosgel&results=5))
 * Gants latex ou vinyl (Par ex : [MAPA Confort Pro x100](https://www.amazon.fr/Mapa-Gants-M%C3%A9nage-Confort-Taille/dp/B06XWVLDMG), dispo chez Carrefour)
 
+## Visage
+### Masques chirurgicaux.
+* Évite de contaminer les autres par postillons
+* Pas de protection personnelle
+* Usage unique.
+
+### Masques FFP2 (N95 pour la norme américaine)
+* La norme n'est pas prévue pour des virus aussi petits MAIS une étude montre que ça fonctionne quand même.
+* L'efficacité n'est que relative : 
+  * Difficile à porter (pas évident à mettre en place, respiration difficile)
+  * Il faut le considérer comme contaminé (des précautions pour l'enlever).
+  * Il ne protège pas les yeux (qui restent le principal point de contamination en proximité)
+* Usage unique
+* Durée de vie : 8 h
+
 ## Surfaces
 * Javel diluée à 0,1-0,2 %. Plus forte concentration reste efficace, mais peut abimer les objets. [[1]](https://www.reddit.com/r/COVID19/comments/f8bpur/persistence_of_coronaviruses_on_inanimate/) (Attention à ne pas mélanger la javel avec ce qui est acide, ça crée des vapeurs toxiques dangereuses).
 * Alcool : Sopropyl Alcohol/Isopropanol/Rubbing Alcohol à 70 %. (Pas l'éthanol, pas l'alcool à 90 %). [[1]](https://www.reddit.com/r/COVID19/comments/f8bpur/persistence_of_coronaviruses_on_inanimate/) (Attention, inflammable).
