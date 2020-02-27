@@ -72,7 +72,7 @@ Il est présent :
 * Alcool : Sopropyl Alcohol/Isopropanol/Rubbing Alcohol à 70 %. (Pas l'éthanol, pas l'alcool à 90 %). [[1]](https://www.reddit.com/r/COVID19/comments/f8bpur/persistence_of_coronaviruses_on_inanimate/) (Attention, inflammable).
 
 # Traitement 
-* Il n'y a pour l'instant aucun traitement direct. Il y a des tentatives de traitement indirects (des symptômes).
+* Il n'y a pour l'instant aucun traitement direct. Il y a des tentatives de traitement indirects (des symptômes), comme par exemple des antiviraux ou le prometteur traitement contre le paludisme / malaria [[1]](https://www.ncbi.nlm.nih.gov/pubmed/32074550).
 * Le système immunitaire arrive à créer l'immunité en dix jours après l'apparition des symptômes. Le tout est d'éviter les complications. 
 
 # Contact
