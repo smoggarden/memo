@@ -83,7 +83,7 @@ Il est présent :
 ## Maroc [[1]](https://www.le212.info/Numeros-des-urgences-Maroc_a15916.html)[[2]](https://www.challenge.ma/ces-numeros-indispensables-en-cas-durgence-115312/)[[3]](http://www.guidedumaroc.com/service-numeros-urgences.html)
 * Institut Pasteur : 05 22 26 20 62
 * SOS Médecins Maroc : 05 22 98 98 98
-* Ambulances / Pompiers : 150 
+* Protection civile (Ambulances / Pompiers) : 15 ou 150 
 * Renseignements génériques : 160
 
 # Liens utiles
