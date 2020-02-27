@@ -68,7 +68,7 @@ Il est présent :
 * Gants latex ou vinyl (Par ex : [MAPA Confort Pro x100](https://www.amazon.fr/Mapa-Gants-M%C3%A9nage-Confort-Taille/dp/B06XWVLDMG), dispo chez Carrefour)
 
 ## Visage
-La protection principale pour le visage est de se laver les mains. La transmission directe vers le visage reste secondaire.
+La protection principale pour le visage est de se laver les mains. La transmission directe vers le visage reste secondaire. [[1]](https://twitter.com/MinSoliSante/status/1233056539583315968?s=20)
 
 ### Masques chirurgicaux
 * Évite de contaminer les autres par postillons
