@@ -14,6 +14,7 @@
   1. On prend son téléphone => Mains sales
   1. On retouche le visage et c'est le drame.
 * Pareil pour les poignées de porte.
+* Pareil pour l'argent.
   
 ### Maison
 * Se laver les mains dès qu'on rentre, pour éviter de propager dans la maison. Mettre un gel dans l'entrée, comme dans les hôpitaux.
