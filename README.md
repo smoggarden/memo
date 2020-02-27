@@ -1,9 +1,11 @@
 # Recommandations générales [[1]](https://www.ameli.fr/assure/sante/themes/gestes-barrieres/les-4-gestes-barrieres-adopter-pour-limiter-la-transmission-des-virus-de-lhiver)[[2]](https://www.who.int/fr/emergencies/diseases/novel-coronavirus-2019/advice-for-public)[[3]](https://www.cdc.gov/handwashing/show-me-the-science-handwashing.html)
+```
 * Se laver les mains **bien** et **souvent** 
 * Ne pas se toucher le visage
 * Ne pas rester près des gens louches (toux, etc.)
 * Faire attention aux toilettes (fermer le capot avant de tirer la chasse)
 * Tousser dans le coude (pour ne pas contaminer les mains)
+```
 
 ## Exemples
 ### Général
@@ -68,7 +70,7 @@ Il est présent :
 * Gants latex ou vinyl (Par ex : [MAPA Confort Pro x100](https://www.amazon.fr/Mapa-Gants-M%C3%A9nage-Confort-Taille/dp/B06XWVLDMG), dispo chez Carrefour)
 
 ## Visage
-### Masques chirurgicaux.
+### Masques chirurgicaux
 * Évite de contaminer les autres par postillons
 * Pas de protection personnelle
 * Usage unique.
