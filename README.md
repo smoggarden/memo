@@ -73,7 +73,7 @@ Il est présent :
 * Pas de protection personnelle
 * Usage unique.
 
-### Masques FFP2 (N95 pour la norme américaine)
+### Masques FFP2 (grosso modo pareil que N95 chez les américains)
 Le consensus général est que ces masques sont inutiles pour le grand public. Ils offrent une protection temporaire et très limitée, et ils sont difficiles à trouver et à utiliser. 
 
 * La norme n'est pas prévue pour des virus aussi petits MAIS au final ça fonctionne quand même. [[1]](https://www.reddit.com/r/COVID19/comments/f5gijm/n95_masks_are_effective_for_particles_larger_and/)
