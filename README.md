@@ -18,7 +18,7 @@
 ### Maison
 * Se laver les mains dès qu'on rentre, pour éviter de propager dans la maison. Mettre un gel dans l'entrée, comme dans les hôpitaux.
 * Laver les surfaces à la javel diluée. 
-* Mettre à l'abri la brosse à dents, pas laisser près du lavabo.
+* Mettre à l'abri la brosse à dents et les ustensiles de maquillage, pas laisser sur le lavabo.
 * Aérer ?
 
 ### Repas
