@@ -74,7 +74,9 @@ Il est présent :
 * Usage unique.
 
 ### Masques FFP2 (N95 pour la norme américaine)
-* La norme n'est pas prévue pour des virus aussi petits MAIS une étude montre que ça fonctionne quand même.
+Le consensus général est que ces masques sont inutiles pour le grand public. Ils offrent une protection temporaire et très limitée, et ils sont difficiles à trouver et à utiliser. 
+
+* La norme n'est pas prévue pour des virus aussi petits MAIS une étude montre que ça fonctionne quand même. [[1]](https://www.reddit.com/r/COVID19/comments/f5gijm/n95_masks_are_effective_for_particles_larger_and/)
 * L'efficacité n'est que relative : 
   * Difficile à porter (pas évident à mettre en place, respiration difficile)
   * Il faut le considérer comme contaminé (des précautions pour l'enlever).
