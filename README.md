@@ -7,7 +7,7 @@
 
 ## Exemples
 ### Général
-* Il faut considérer le téléphone comme contaminé : 
+* Considérer le téléphone comme systématiquement contaminé : 
   1. On touche le téléphone dans la rue
   1. On rentre à la maison
   1. On se lave les mains => Mains propres
