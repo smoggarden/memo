@@ -53,6 +53,7 @@ Il est présent :
 * Quarantaine recommandée : 14 jours
 
 ### Symptômes [[1]](https://www.medrxiv.org/content/10.1101/2020.02.06.20020974v1)
+Le cas général : Fièvre, puis toux, puis, une semaine après, difficulté à respirer [[1]](https://www.reddit.com/r/COVID19/comments/fakavo/compilation_of_information_for_health/)
 * Fièvre : 44 % au moment de se présenter devant un médecin, 88 % après hospitalisation.
 * Toux : 68 % pour les cas hospitalisés
 * Difficulté à respirer
