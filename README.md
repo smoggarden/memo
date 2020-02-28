@@ -58,6 +58,7 @@ Le cas général : Fièvre, puis toux, puis, une semaine après, difficulté à 
 * Toux : 68 % pour les cas hospitalisés
 * Difficulté à respirer
 * Parfois faiblesse générale (comme la grippe).
+* Et, rarement, des troubles gastro-intestinaux.
 
 ## Résistance
 * jusqu'à 9 jours à température ambiante, sur une surface [[1]](https://www.reddit.com/r/COVID19/comments/f8bpur/persistence_of_coronaviruses_on_inanimate/)
