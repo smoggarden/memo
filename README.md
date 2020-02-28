@@ -116,4 +116,5 @@ Le consensus général : inutiles pour le grand public. Ils offrent une protecti
 * [/r/coronavirus](https://www.reddit.com/r/coronavirus) : Forum assez bien filtré, moins rigoureux que /r/covid19, mais plus fourni.
 * [Live Reddit](https://www.reddit.com/live/14d816ty1ylvo/)
 * [Gouvernement](https://www.gouvernement.fr/)
+* [Compilation d'infos par un étudiant en médecine](https://www.reddit.com/r/COVID19/comments/fakavo/compilation_of_information_for_health/)
 
