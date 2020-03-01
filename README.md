@@ -92,7 +92,9 @@ Le consensus général : inutiles pour le grand public. Ils offrent une protecti
 
 ## Surfaces
 * Javel diluée à 0,1-0,2 %. Plus forte concentration reste efficace, mais peut abimer les objets. [[1]](https://www.reddit.com/r/COVID19/comments/f8bpur/persistence_of_coronaviruses_on_inanimate/) (Attention à ne pas mélanger la javel avec ce qui est acide, ça crée des vapeurs toxiques dangereuses).
-* Alcool : Sopropyl Alcohol/Isopropanol/Rubbing Alcohol à 70 %. (Pas l'éthanol, pas l'alcool à 90 %). [[1]](https://www.reddit.com/r/COVID19/comments/f8bpur/persistence_of_coronaviruses_on_inanimate/) (Attention, inflammable).
+* Alcool à 70 % (Pas à 90 %, ça ne fonctionne pas). [[1]](https://www.reddit.com/r/COVID19/comments/f8bpur/persistence_of_coronaviruses_on_inanimate/) (Attention, inflammable).
+* Potentiellement : 
+  * Eau oxygénée (peroxyde d'hydrogène) à 0,5 % [[1]](https://www.journalofhospitalinfection.com/article/S0195-6701(20)30046-3/abstract)
 
 # Traitement 
 * Il n'y a pour l'instant aucun traitement direct. Il y a des tentatives de traitement indirects (des symptômes), comme par exemple des antiviraux ou un traitement contre le paludisme / malaria prometteur [[1]](https://www.ncbi.nlm.nih.gov/pubmed/32074550).
