@@ -98,7 +98,7 @@ Le consensus général : inutiles pour le grand public. Ils offrent une protecti
   * Eau oxygénée (peroxyde d'hydrogène) à 0,5 % [[1]](https://www.journalofhospitalinfection.com/article/S0195-6701(20)30046-3/abstract)
 
 # Traitement 
-* Il n'y a pour l'instant aucun traitement direct efficace. Des traitements sont néanmoins utilisés pour les hospitalisés pour tenter de réduire les symptômes (antiviraux, etc.). 
+* Il n'y a pour l'instant aucun traitement direct efficace. Des traitements sont néanmoins utilisés pour tenter de réduire les symptômes des cas sévères ou à risques (antiviraux, etc.). 
 * Le système immunitaire arrive à créer l'immunité en dix jours après l'apparition des symptômes. Le tout est d'éviter les complications. 
 * Les labos tentent de réutiliser des traitements développés pour d'autres maladies, certains sont prometteurs [[1]](https://www.ncbi.nlm.nih.gov/pubmed/32074550)[[2]](https://en.yna.co.kr/view/AEN20200303010900320). Réutiliser un traitement permet de gagner du temps par rapport à un nouveau vaccin qui demandera de longues phases de tests et d'homologations.
 
