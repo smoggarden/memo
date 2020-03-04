@@ -87,6 +87,7 @@ Le consensus général : inutiles pour le grand public. Ils offrent une protecti
   * Difficile à porter (pas évident à mettre en place, respiration difficile)
   * Il faut le considérer comme contaminé (des précautions pour l'enlever).
   * Il ne protège pas les yeux (qui restent le principal point de contamination en proximité)
+  * S'il n'était pas scellé dans un sac, la poussière l'a probablement rendu inactif.
 * Usage unique
 * Durée de vie : 8 h
 
