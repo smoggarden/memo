@@ -84,7 +84,7 @@ Le consensus général : inutiles pour le grand public. Ils offrent une protecti
 
 * La norme n'est pas prévue pour des virus aussi petits MAIS au final ça fonctionne quand même. [[1]](https://www.reddit.com/r/COVID19/comments/f5gijm/n95_masks_are_effective_for_particles_larger_and/)
 * L'efficacité n'est que relative : 
-  * Difficile à porter (pas évident à mettre en place, respiration difficile)
+  * Difficile à porter (pas évident à mettre en place [[1]](https://www.youtube.com/watch?v=zoxpvDVo_NI), respiration difficile)
   * Il faut le considérer comme contaminé (des précautions pour l'enlever).
   * Il ne protège pas les yeux (qui restent le principal point de contamination en proximité)
   * S'il n'était pas scellé dans un emballage plastique, la poussière l'a probablement rendu inactif.
