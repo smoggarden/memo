@@ -115,8 +115,7 @@ Le consensus général : inutiles pour le grand public. Ils offrent une protecti
 
 # Liens utiles
 * [Santé publique française](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/covid-19-situation-epidemiologique-internationale)
-* [Twitter du ministère français](https://twitter.com/MinSoliSante)
-* [Twitter Alertes Sanitaires](https://twitter.com/AlerteSanitaire)
+* [Twitter du ministère français](https://twitter.com/MinSoliSante) / [Twitter Alertes Sanitaires](https://twitter.com/AlerteSanitaire)
 * [L'organisation mondiale de la santé](https://www.who.int/fr/emergencies/diseases/novel-coronavirus-2019) (OMS en français, WHO en anglais)
 * [L'Institut Pasteur](https://www.pasteur.fr/fr/centre-medical/fiches-maladies/coronavirus-wuhan)
 * [/r/covid19](https://www.reddit.com/r/covid19) : Forum très bien filtré avec approche médicale
