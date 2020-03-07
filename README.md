@@ -12,9 +12,9 @@
   1. On rentre à la maison
   1. On se lave les mains => Mains propres
   1. On prend son téléphone => Mains sales
-  1. On retouche le visage et c'est le drame.
-* Pareil pour les poignées de porte.
-* Pareil pour l'argent.
+  1. On retouche le visage et c'est le drame
+* Pareil pour les poignées de porte
+* Pareil pour l'argent
   
 ### Maison
 * Se laver les mains dès qu'on rentre, pour éviter de propager dans la maison. Mettre un gel dans l'entrée, comme dans les hôpitaux.
@@ -34,7 +34,7 @@
 Le virus passe par : 
 * Les yeux
 * La bouche
-* Le nez. 
+* Le nez
 
 Mais pas par la peau.
 
@@ -49,15 +49,15 @@ Il est présent :
 * Minimum : 1 jours
 * Médiane : 5 jours
 * Maximum : 14 jours (des cas rares jusqu'à 28 jours)
-* Quarantaine recommandée : 14 jours
+* Quarantaine recommandée : 14 jours (la Chine recommande maintenant 28 jours [[1]](https://www.reddit.com/r/Coronavirus/comments/feql65/wuhan_increases_patient_quarantine_to_28_days/))
 
 ### Symptômes [[1]](https://www.medrxiv.org/content/10.1101/2020.02.06.20020974v1)
 Le cas général : Fièvre, puis toux, puis, une semaine après, difficulté à respirer [[1]](https://www.reddit.com/r/COVID19/comments/fakavo/compilation_of_information_for_health/)
 * Fièvre : 44 % au moment de se présenter devant un médecin, 88 % après hospitalisation.
 * Toux : 68 % pour les cas hospitalisés
 * Difficulté à respirer
-* Parfois faiblesse générale (comme la grippe).
-* Et, rarement, des troubles gastro-intestinaux.
+* Parfois faiblesse générale (comme la grippe)
+* Et, rarement, des troubles gastro-intestinaux
 
 ## Résistance
 * jusqu'à 9 jours à température ambiante, sur une surface [[1]](https://www.reddit.com/r/COVID19/comments/f8bpur/persistence_of_coronaviruses_on_inanimate/)[[2]](https://qz.com/1810508/covid-19-can-likely-live-up-to-96-hours-on-your-phone/?utm_source=reddit.com)
@@ -80,7 +80,7 @@ La protection principale pour le visage est de se laver les mains. La transmissi
 ### Masques chirurgicaux
 * Évite de contaminer les autres par postillons
 * Pas de protection personnelle
-* Usage unique.
+* Usage unique
 
 ### Masques FFP2 (N95 chez les américains)
 Le consensus général : inutiles pour le grand public. Ils offrent une protection temporaire et très limitée, et ils sont difficiles à trouver et à utiliser. 
