@@ -64,7 +64,8 @@ Le cas général : Fièvre, puis toux, puis, une semaine après, difficulté à 
 * Jusqu'à 28 jours à 4°c [[1]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2863430/)
 
 ## Animaux
-* La transmission de l'humain vers le chien est avérée [[1]](https://www.info.gov.hk/gia/general/202002/28/P2020022800013.htm?fontSize=1) On ne sait pas encore si le chien peut transmettre à l'humain.
+* La transmission de l'humain vers le chien est avérée [[1]](https://www.info.gov.hk/gia/general/202002/28/P2020022800013.htm?fontSize=1).
+* On ne sait pas encore si le chien peut transmettre à l'humain. La quarantaine est recommandée.
 
 # Protection
 
