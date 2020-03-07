@@ -121,7 +121,7 @@ Le consensus général : inutiles pour le grand public. Ils offrent une protecti
 * [Twitter du ministère français](https://twitter.com/MinSoliSante) / [Twitter Alertes Sanitaires](https://twitter.com/AlerteSanitaire)
 * [L'organisation mondiale de la santé](https://www.who.int/fr/emergencies/diseases/novel-coronavirus-2019) (OMS en français, WHO en anglais)
 * [L'Institut Pasteur](https://www.pasteur.fr/fr/centre-medical/fiches-maladies/coronavirus-wuhan)
-* [/r/covid19](https://www.reddit.com/r/covid19) : Forum très bien filtré avec approche médicale
+* [/r/covid19](https://www.reddit.com/r/covid19) : Forum très bien filtré pour promouvoir le contenu scientifique.
 * [/r/coronavirus](https://www.reddit.com/r/coronavirus) : Forum assez bien filtré, moins rigoureux que /r/covid19, mais plus fourni.
 * [Live Reddit](https://www.reddit.com/live/14d816ty1ylvo/)
 * [Gouvernement](https://www.gouvernement.fr/)
