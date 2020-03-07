@@ -42,7 +42,6 @@ Il est présent :
 * Dans la salive
 * La toux
 * Le caca et pipi [[1]](https://www.livescience.com/coronavirus-covid-19-spread-through-feces.html)
-* Potentiellement l'air ambiant (La Chine l'affirme).
 
 ## Porteur
 
