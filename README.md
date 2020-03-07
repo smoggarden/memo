@@ -63,6 +63,9 @@ Le cas général : Fièvre, puis toux, puis, une semaine après, difficulté à 
 * jusqu'à 9 jours à température ambiante, sur une surface [[1]](https://www.reddit.com/r/COVID19/comments/f8bpur/persistence_of_coronaviruses_on_inanimate/)[[2]](https://qz.com/1810508/covid-19-can-likely-live-up-to-96-hours-on-your-phone/?utm_source=reddit.com)
 * Jusqu'à 28 jours à 4°c [[1]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2863430/)
 
+## Animaux
+* La transmission de l'humain vers le chien est avérée [[1]](https://www.info.gov.hk/gia/general/202002/28/P2020022800013.htm?fontSize=1) On ne sait pas encore si le chien peut transmettre à l'humain.
+
 # Protection
 
 ## Mains
