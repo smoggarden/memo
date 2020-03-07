@@ -45,8 +45,8 @@ Il est présent :
 
 ## Porteur
 
-### Période d'incubation [[1]](https://www.medrxiv.org/content/10.1101/2020.02.06.20020974v1)
-* Minimum : 0 jours
+### Période d'incubation [[1]](https://www.medrxiv.org/content/10.1101/2020.02.06.20020974v1)[[2]](https://www.who.int/fr/emergencies/diseases/novel-coronavirus-2019/advice-for-public/q-a-coronaviruses)
+* Minimum : 1 jours
 * Médiane : 5 jours
 * Maximum : 14 jours (des cas rares jusqu'à 28 jours)
 * Quarantaine recommandée : 14 jours
