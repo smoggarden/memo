@@ -123,4 +123,5 @@ Le consensus général : inutiles pour le grand public. Ils offrent une protecti
 * [Live Reddit](https://www.reddit.com/live/14d816ty1ylvo/)
 * [Gouvernement](https://www.gouvernement.fr/)
 * [Compilation d'infos par un étudiant en médecine](https://www.reddit.com/r/COVID19/comments/fakavo/compilation_of_information_for_health/)
+* [Inventaire mondial en temps-réel](https://www.youtube.com/watch?v=qgylp3Td1Bw)
 
