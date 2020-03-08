@@ -52,7 +52,7 @@ Il est présent :
 * Quarantaine recommandée : 14 jours (la Chine recommande maintenant 28 jours [[1]](https://www.reddit.com/r/Coronavirus/comments/feql65/wuhan_increases_patient_quarantine_to_28_days/))
 
 ### Symptômes [[1]](https://www.medrxiv.org/content/10.1101/2020.02.06.20020974v1)
-Le cas général : Fièvre, puis toux, puis, une semaine après, difficulté à respirer [[1]](https://www.reddit.com/r/COVID19/comments/fakavo/compilation_of_information_for_health/)
+Le cas général : fièvre, puis toux, puis, une semaine après, difficulté à respirer [[1]](https://www.reddit.com/r/COVID19/comments/fakavo/compilation_of_information_for_health/)
 * Fièvre : 44 % au moment de se présenter devant un médecin, 88 % après hospitalisation.
 * Toux : 68 % pour les cas hospitalisés
 * Difficulté à respirer
@@ -60,7 +60,7 @@ Le cas général : Fièvre, puis toux, puis, une semaine après, difficulté à 
 * Et, rarement, des troubles gastro-intestinaux
 
 ## Résistance
-* jusqu'à 9 jours à température ambiante, sur une surface [[1]](https://www.reddit.com/r/COVID19/comments/f8bpur/persistence_of_coronaviruses_on_inanimate/)[[2]](https://qz.com/1810508/covid-19-can-likely-live-up-to-96-hours-on-your-phone/?utm_source=reddit.com)
+* Jusqu'à 9 jours à température ambiante, sur une surface [[1]](https://www.reddit.com/r/COVID19/comments/f8bpur/persistence_of_coronaviruses_on_inanimate/)[[2]](https://qz.com/1810508/covid-19-can-likely-live-up-to-96-hours-on-your-phone/?utm_source=reddit.com)
 * Jusqu'à 28 jours à 4°c [[1]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2863430/)
 
 ## Animaux
