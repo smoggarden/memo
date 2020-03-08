@@ -71,7 +71,7 @@ Le cas général : Fièvre, puis toux, puis, une semaine après, difficulté à 
 
 ## Mains
 * Savon
-* Gel hydroalcoolique (Par ex : [ANIOSGEL 85 NPC](https://www.phimedical.fr/desinfection/hygiene-des-mains/gel-hydroalcoolique-aniosgel-85-npc-flacon-de-1-l-au-choix.html?search_query=aniosgel&results=5))[[1]](https://www.who.int/gpsc/5may/tools/system_change/guide_production_locale_produit_hydro_alcoolique.pdf?ua=1)
+* Gel hydroalcoolique (Par ex : [ANIOSGEL 85 NPC](https://www.phimedical.fr/desinfection/hygiene-des-mains/gel-hydroalcoolique-aniosgel-85-npc-flacon-de-1-l-au-choix.html?search_query=aniosgel&results=5))
 * Gants latex ou vinyl (Par ex : [MAPA Confort Pro x100](https://www.amazon.fr/Mapa-Gants-M%C3%A9nage-Confort-Taille/dp/B06XWVLDMG), dispo chez Carrefour)
 
 ## Visage
