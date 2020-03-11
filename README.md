@@ -51,7 +51,7 @@ Il est présent :
 * Maximum : 14 jours (des cas rares jusqu'à 28 jours)
 * Quarantaine recommandée : 14 jours (la Chine recommande maintenant 28 jours [[1]](https://www.reddit.com/r/Coronavirus/comments/feql65/wuhan_increases_patient_quarantine_to_28_days/))
 
-### Symptômes [[1]](https://www.medrxiv.org/content/10.1101/2020.02.06.20020974v1)[[2]](https://i.imgur.com/UNMDX58.jpg)
+### Symptômes [[1]](https://www.medrxiv.org/content/10.1101/2020.02.06.20020974v1)[[2]](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30566-3/fulltext)
 Le cas général : fièvre, puis toux, puis, une semaine après, difficulté à respirer [[1]](https://www.reddit.com/r/COVID19/comments/fakavo/compilation_of_information_for_health/)
 * Fièvre : 44 % au moment de se présenter devant un médecin, 88 % après hospitalisation.
 * Toux : 68 % pour les cas hospitalisés
