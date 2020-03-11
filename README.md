@@ -79,7 +79,7 @@ La protection principale pour le visage est de se laver les mains. La transmissi
 
 ### Masques chirurgicaux
 * Évite de contaminer les autres par postillons
-* Pas de protection personnelle
+* Protection personnelle légère
 * Usage unique
 
 ### Masques FFP2 (N95 chez les américains)
