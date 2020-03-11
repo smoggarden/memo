@@ -60,7 +60,7 @@ Le cas général : fièvre, puis toux, puis, une semaine après, difficulté à 
 * Et, rarement, des troubles gastro-intestinaux
 
 ## Résistance
-* Jusqu'à 9 jours à température ambiante, sur une surface [[1]](https://www.reddit.com/r/COVID19/comments/f8bpur/persistence_of_coronaviruses_on_inanimate/)[[2]](https://qz.com/1810508/covid-19-can-likely-live-up-to-96-hours-on-your-phone/?utm_source=reddit.com)[[3]](https://www.pbs.org/newshour/health/preliminary-research-suggests-new-virus-may-live-on-some-surfaces-for-up-to-3-days)[[4]](https://www.who.int/fr/emergencies/diseases/novel-coronavirus-2019/advice-for-public/q-a-coronaviruses)
+* Jusqu'à 9 jours à température ambiante, sur une surface [[1]](https://www.reddit.com/r/COVID19/comments/f8bpur/persistence_of_coronaviruses_on_inanimate/)[[2]](https://qz.com/1810508/covid-19-can-likely-live-up-to-96-hours-on-your-phone/?utm_source=reddit.com)[[3]](https://www.pbs.org/newshour/health/preliminary-research-suggests-new-virus-may-live-on-some-surfaces-for-up-to-3-days)[[4]](https://www.who.int/fr/emergencies/diseases/novel-coronavirus-2019/advice-for-public/q-a-coronaviruses)[[5]](https://www.reddit.com/r/COVID19/comments/fh2xz9/aerosol_and_surface_stability_of_hcov19_sarscov2/)
 * Jusqu'à 28 jours à 4°c [[1]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2863430/)
 
 ## Animaux
