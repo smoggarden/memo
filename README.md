@@ -41,7 +41,7 @@ Mais pas par la peau.
 Il est présent : 
 * Dans la salive
 * La toux
-* Le caca et pipi [[1]](https://www.livescience.com/coronavirus-covid-19-spread-through-feces.html)[[2]](https://www.youtube.com/watch?v=eoEkp-cyhN8&feature=youtu.be&t=3472)
+* Le caca et pipi [[1]](https://www.livescience.com/coronavirus-covid-19-spread-through-feces.html)[[2]](https://www.youtube.com/watch?v=eoEkp-cyhN8&feature=youtu.be&t=3472)[[3]](https://www.who.int/fr/emergencies/diseases/novel-coronavirus-2019/advice-for-public/q-a-coronaviruses)
 * Air ? [[1]](https://www.reddit.com/r/COVID19/comments/fh2xz9/aerosol_and_surface_stability_of_hcov19_sarscov2/)
 
 ## Porteur
@@ -51,6 +51,12 @@ Il est présent :
 * Médiane : 5 jours
 * Maximum : 14 jours (des cas rares jusqu'à 28 jours)
 * Quarantaine recommandée : 14 jours (la Chine recommande maintenant 28 jours [[1]](https://www.reddit.com/r/Coronavirus/comments/feql65/wuhan_increases_patient_quarantine_to_28_days/))
+
+## Période de contagiosité [[1]](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30566-3/fulltext#back-bib33)
+* Minimum : ?
+* Médiane : 20 jours après infection
+* Maximum : 37 jours après infection
+* Moins contagieux que la grippe quand il n'y a pas de symptômes [[1]](https://www.who.int/fr/emergencies/diseases/novel-coronavirus-2019/advice-for-public/q-a-coronaviruses)
 
 ### Symptômes [[1]](https://www.medrxiv.org/content/10.1101/2020.02.06.20020974v1)[[2]](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30566-3/fulltext)
 Le cas général : fièvre, puis toux, puis, une semaine après, difficulté à respirer [[1]](https://www.reddit.com/r/COVID19/comments/fakavo/compilation_of_information_for_health/)
