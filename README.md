@@ -38,7 +38,7 @@ Le virus passe par :
 
 Mais pas par la peau.
 
-Il est présent : 
+Il est présent [[1]](https://www.youtube.com/watch?v=eoEkp-cyhN8&feature=youtu.be&t=3472): 
 * Dans la salive
 * La toux
 * Le caca et pipi [[1]](https://www.livescience.com/coronavirus-covid-19-spread-through-feces.html)
