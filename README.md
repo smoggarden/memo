@@ -30,6 +30,10 @@
 * Le virus : SARS-CoV-2 (à ne pas confondre avec le SARS-CoV de 2003)
 * La famille des coronavirus : Le SARS-CoV-2, le SARS-CoV, le MERS-CoV (Moyen-Orient, 2012), le rhume classique, etc.
 
+## Gravité
+* Ce virus est beaucoup plus dangereux qu'une grippe pour un individu, mais reste peu dangereux dans l'absolu. Mais 20 % des cas détectés ont besoin d'une hospitalisation.
+* Ce virus est très grave collectivement. Le risque majeur est la saturation des hôpitaux qui fait que les 20 % hospitalisés ne vont pas avoir des soins optimaux. Le nombre de respirateurs et de personnel qualifié est très limité.
+
 ## Mode de propagation
 Le virus passe par : 
 * Les yeux
