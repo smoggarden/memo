@@ -86,7 +86,7 @@ Le cas général : fièvre, puis toux, puis, une semaine après, difficulté à 
 * Gants latex ou vinyl (Par ex : [MAPA Confort Pro x100](https://www.amazon.fr/Mapa-Gants-M%C3%A9nage-Confort-Taille/dp/B06XWVLDMG), dispo chez Carrefour)
 
 ## Visage
-La protection principale pour le visage est de se laver les mains. La transmission directe vers le visage reste secondaire. [[1]](https://twitter.com/MinSoliSante/status/1233056539583315968?s=20)
+La protection principale pour le visage est de se laver les mains. La transmission directe vers le visage reste secondaire. [[1]](https://twitter.com/MinSoliSante/status/1233056539583315968?s=20)[[2]](https://www.consumer.org.hk/ws_en/news/specials/2020/mask-diy-tips.html)
 
 ### Masques chirurgicaux
 * Évite de contaminer les autres par postillons
