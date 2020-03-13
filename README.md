@@ -19,8 +19,8 @@
 ### Maison
 * Se laver les mains dès qu'on rentre, pour éviter de propager dans la maison. Mettre un gel dans l'entrée, comme dans les hôpitaux.
 * Laver les surfaces à la javel diluée. 
+* Aérer [[1]](https://www.nature.com/articles/s41598-019-38825-y)[[2]](https://www.medrxiv.org/content/10.1101/2020.03.09.20033217v1.full.pdf)
 * Mettre à l'abri la brosse à dents et les ustensiles de maquillage, pas laisser sur le lavabo.
-* Aérer ?
 
 ### Repas
 * Ne rien toucher de risqué pendant la préparation du repas et le repas (par ex : téléphone). Ou alors se relaver les mains juste après.
@@ -46,7 +46,7 @@ Il est présent :
 * Dans la salive
 * La toux
 * Le caca et pipi [[1]](https://www.livescience.com/coronavirus-covid-19-spread-through-feces.html)[[2]](https://www.youtube.com/watch?v=eoEkp-cyhN8&feature=youtu.be&t=3472)[[3]](https://www.who.int/fr/emergencies/diseases/novel-coronavirus-2019/advice-for-public/q-a-coronaviruses)
-* Air ? [[1]](https://www.reddit.com/r/COVID19/comments/fh2xz9/aerosol_and_surface_stability_of_hcov19_sarscov2/)
+* Air [[1]](https://www.reddit.com/r/COVID19/comments/fh2xz9/aerosol_and_surface_stability_of_hcov19_sarscov2/)[[2]](https://www.medrxiv.org/content/10.1101/2020.03.09.20033217v1.full.pdf)
 
 ## Porteur
 
