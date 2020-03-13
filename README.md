@@ -137,6 +137,7 @@ Le consensus général : inutiles pour le grand public. Ils offrent une protecti
 * [Live Reddit](https://www.reddit.com/live/14d816ty1ylvo/)
 * [/r/morocco](https://www.reddit.com/r/Morocco/)
 * [Gouvernement français](https://www.gouvernement.fr/)
+* [Ministère de la Santé marocain](https://www.sante.gov.ma/Pages/Accueil.aspx)
 * [Compilation d'infos par un étudiant en médecine](https://www.reddit.com/r/COVID19/comments/fakavo/compilation_of_information_for_health/)
 * Inventaires mondiaux en temps-réel : [[1]](https://www.youtube.com/watch?v=qgylp3Td1Bw)[[2]](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
 
