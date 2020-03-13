@@ -135,7 +135,8 @@ Le consensus général : inutiles pour le grand public. Ils offrent une protecti
 * [/r/covid19](https://www.reddit.com/r/covid19) : Forum très bien filtré pour promouvoir le contenu scientifique.
 * [/r/coronavirus](https://www.reddit.com/r/coronavirus) : Forum assez bien filtré, moins rigoureux que /r/covid19, mais plus fourni.
 * [Live Reddit](https://www.reddit.com/live/14d816ty1ylvo/)
-* [Gouvernement](https://www.gouvernement.fr/)
+* [/r/morocco](https://www.reddit.com/r/Morocco/)
+* [Gouvernement français](https://www.gouvernement.fr/)
 * [Compilation d'infos par un étudiant en médecine](https://www.reddit.com/r/COVID19/comments/fakavo/compilation_of_information_for_health/)
 * Inventaires mondiaux en temps-réel : [[1]](https://www.youtube.com/watch?v=qgylp3Td1Bw)[[2]](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
 
