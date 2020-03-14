@@ -15,6 +15,9 @@
   1. On retouche le visage et c'est le drame
 * Pareil pour les poignées de porte
 * Pareil pour l'argent
+* Bras droit sale (toucher des objets avec la mains, appuyer sur des boutons avec le coude), et bras gauche propre (tousser dans le coude, manger).
+* Essayer de toucher les zones que la plupart des gens ne toucheront pas (coins de porte plutôt que la poignée, etc).
+* Éviter les ascenseurs (le personnel d'hôpital semble les considérer quand des boîtes à maladies).
   
 ### Maison
 * Se laver les mains dès qu'on rentre, pour éviter de propager dans la maison. Mettre un gel dans l'entrée, comme dans les hôpitaux.
