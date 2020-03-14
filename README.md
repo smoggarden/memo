@@ -35,7 +35,7 @@
 
 ## Gravité
 * Ce virus est beaucoup plus dangereux qu'une grippe pour un individu, mais reste peu dangereux dans l'absolu. Mais 20 % des cas détectés ont besoin d'une hospitalisation.
-* Ce virus est très grave collectivement. Le risque majeur est la saturation des hôpitaux qui fait que les 20 % hospitalisés ne vont pas avoir des soins optimaux. Le nombre de respirateurs est faible, et le personnel qualifié est limité.
+* Ce virus est très grave collectivement. Le risque majeur est la saturation des hôpitaux qui fait que les 20 % hospitalisés ne vont pas avoir des soins optimaux. Le nombre de respirateurs est faible, et le personnel qualifié est limité. [[1]](https://flowingdata.com/2020/03/09/flatten-the-coronavirus-curve/?fbclid=IwAR3sG7Mkre45ZOQMH-xwWhKZzgRF6PJfydjezgPR8mS8BJ-DuwNqBHTjdUM)
 
 ## Mode de propagation
 Le virus passe par : 
