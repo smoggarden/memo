@@ -76,7 +76,7 @@ Le cas général : fièvre, puis toux, puis, une semaine après, difficulté à 
 * 30 min à 75°c, 90 min à 56°c pour le SRAS (virus très proche)[[1]](https://www.ncbi.nlm.nih.gov/pubmed/14631830)
 
 ## Animaux
-* La transmission de l'humain vers le chien est avérée [[1]](https://www.info.gov.hk/gia/general/202002/28/P2020022800013.htm?fontSize=1).
+* Potentielle transmission de l'humain vers le chien [[1]](https://www.info.gov.hk/gia/general/202002/28/P2020022800013.htm?fontSize=1).
 * On ne sait pas encore si le chien peut transmettre à l'humain. La quarantaine est recommandée.
 
 # Protection
