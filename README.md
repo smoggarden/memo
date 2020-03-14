@@ -25,7 +25,7 @@
 ### Repas
 * Ne rien toucher de risqué pendant la préparation du repas et le repas (par ex : téléphone). Ou alors se relaver les mains juste après.
 
-# Informations sur le virus
+# Informations sur le virus [[1]](https://www.youtube.com/watch?v=eoEkp-cyhN8)
 * La maladie : COVID-19
 * Le virus : SARS-CoV-2 (à ne pas confondre avec le SARS-CoV de 2003)
 * La famille des coronavirus : Le SARS-CoV-2, le SARS-CoV, le MERS-CoV (Moyen-Orient, 2012), le rhume classique, etc.
@@ -141,4 +141,5 @@ Le consensus général : inutiles pour le grand public. Ils offrent une protecti
 * [Ministère de la Santé marocain](https://www.sante.gov.ma/Pages/Accueil.aspx)
 * [Compilation d'infos par un étudiant en médecine](https://www.reddit.com/r/COVID19/comments/fakavo/compilation_of_information_for_health/)
 * Inventaires mondiaux en temps-réel : [[1]](https://www.youtube.com/watch?v=qgylp3Td1Bw)[[2]](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
+
 
