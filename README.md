@@ -107,7 +107,7 @@ Le consensus général : inutiles pour le grand public. Ils offrent une protecti
   * Il ne protège pas les yeux (qui restent le principal point de contamination en proximité)
   * S'il n'était pas scellé dans un emballage plastique, la poussière l'a probablement rendu inactif.
 * Usage unique
-* Durée de vie : 8 h
+* Durée de vie : 8 h selon les fabriquants mais l'utilisation peut être étendue sans trop dégrader la protection à condition de respecter les contraintes : [[1]](https://www.cdc.gov/niosh/topics/hcwcontrols/recommendedguidanceextuse.html)
 
 ## Surfaces
 * Javel diluée à 0,1-0,2 %. Plus forte concentration reste efficace, mais peut abimer les objets. [[1]](https://www.reddit.com/r/COVID19/comments/f8bpur/persistence_of_coronaviruses_on_inanimate/) (Attention à ne pas mélanger la javel avec ce qui est acide, ça crée des vapeurs toxiques dangereuses).
