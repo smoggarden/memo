@@ -121,7 +121,7 @@ Le consensus général : inutiles pour le grand public. Ils offrent une protecti
 * Les labos tentent de réutiliser des traitements développés pour d'autres maladies, certains sont prometteurs [[1]](https://www.ncbi.nlm.nih.gov/pubmed/32074550)[[2]](https://en.yna.co.kr/view/AEN20200303010900320)[[3]](https://www.reddit.com/r/COVID19/comments/fdtkv4/dutch_clinical_guidelines_for_treating_covid19/). Réutiliser un traitement permet de gagner du temps par rapport à un nouveau vaccin. Un vaccin demandera de longues phases de tests et d'homologations.
 
 ## Comment réagir si on a des symptômes
-* Pas d'anti-inflammatoires [[1]](https://mobile.twitter.com/olivierveran/status/1238776545398923264)
+* Pas d'anti-inflammatoires [[1]](https://mobile.twitter.com/olivierveran/status/1238776545398923264)[[2]](https://www.sciencealert.com/who-recommends-to-avoid-taking-ibuprofen-for-covid-19-symptoms)
 
 # Contact
 ## France
