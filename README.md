@@ -7,7 +7,7 @@
 
 ## Exemples
 ### Général
-* Considérer le téléphone comme systématiquement contaminé [[1]](https://qz.com/1810508/covid-19-can-likely-live-up-to-96-hours-on-your-phone/?utm_source=reddit.com) : 
+* Considérer le téléphone comme systématiquement contaminé [[1]](https://qz.com/1810508/covid-19-can-likely-live-up-to-96-hours-on-your-phone/?utm_source=reddit.com)[[2]](https://www.lemonde.fr/pixels/article/2020/03/18/comment-bien-nettoyer-son-smartphone-pour-eviter-la-transmission-du-coronavirus_6033578_4408996.html) : 
   1. On touche le téléphone dans la rue
   1. On rentre à la maison
   1. On se lave les mains => Mains propres
