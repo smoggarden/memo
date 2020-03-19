@@ -129,8 +129,8 @@ Le consensus général : inutiles pour le grand public. Ils offrent une protecti
 * Numéro vert pour demander des infos : 0 800 130 000
 
 ## Maroc [[1]](https://www.le212.info/Numeros-des-urgences-Maroc_a15916.html)[[2]](https://www.challenge.ma/ces-numeros-indispensables-en-cas-durgence-115312/)[[3]](http://www.guidedumaroc.com/service-numeros-urgences.html)
-* Allô Samu (Symptômes ou assistance urgente) : 141 [[1]](https://www.reddit.com/r/Morocco/comments/fl86xd/coronavirus_megathread_4/)
-* Allo Yakada (Infos COVID-19) : 080 100 47 47 [[1]](https://www.reddit.com/r/Morocco/comments/fl86xd/coronavirus_megathread_4/)
+* Allô SAMU (Symptômes ou assistance urgente) : 141 [[1]](https://www.reddit.com/r/Morocco/comments/fl86xd/coronavirus_megathread_4/)[[2]](https://leseco.ma/coronavirus-allo-samu-141-une-ligne-pour-laide-medicale-urgente/)
+* Allô Yakada (Infos COVID-19) : 080 100 47 47 [[1]](https://www.reddit.com/r/Morocco/comments/fl86xd/coronavirus_megathread_4/)
 * Protection civile (Ambulances / Pompiers) : 15 ou 150 
 * SOS Médecins Maroc : 05 22 98 98 98
 * Institut Pasteur : 05 22 26 20 62
