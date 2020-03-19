@@ -89,7 +89,7 @@ Le cas général : fièvre, puis toux, puis, une semaine après, difficulté à 
 * Gel hydroalcoolique (Par ex : [ANIOSGEL 85 NPC](https://www.phimedical.fr/desinfection/hygiene-des-mains/gel-hydroalcoolique-aniosgel-85-npc-flacon-de-1-l-au-choix.html?search_query=aniosgel&results=5))[[1]](https://www.youtube.com/watch?v=PK8h0QPzbOg)
 * Gants latex ou vinyl (Par ex : [MAPA Confort Pro x100](https://www.amazon.fr/Mapa-Gants-M%C3%A9nage-Confort-Taille/dp/B06XWVLDMG), dispo chez Carrefour)
 
-## Visage
+## Visage [[1]](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30520-1/fulltext)
 La protection principale pour le visage est de se laver les mains. La transmission directe vers le visage reste secondaire. [[1]](https://twitter.com/MinSoliSante/status/1233056539583315968?s=20)[[2]](https://www.consumer.org.hk/ws_en/news/specials/2020/mask-diy-tips.html)
 
 ### Masques chirurgicaux
