@@ -149,6 +149,6 @@ Le consensus général : inutiles pour le grand public. Ils offrent une protecti
 * [Ministère de la Santé marocain](https://www.sante.gov.ma/Pages/Accueil.aspx)
 * [Compilation d'infos par un étudiant en médecine](https://www.reddit.com/r/COVID19/comments/fakavo/compilation_of_information_for_health/)
 * Inventaires mondiaux en temps-réel : [[1]](https://www.youtube.com/watch?v=qgylp3Td1Bw)[[2]](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
-* Inventaire marocain : [[1]](http://geomatic.maps.arcgis.com/apps/webappviewer/index.html?id=e37c7c47b163458faf0efb830890dbec)
+* [Inventaire marocain](http://geomatic.maps.arcgis.com/apps/webappviewer/index.html?id=e37c7c47b163458faf0efb830890dbec)
 
 
