@@ -85,7 +85,7 @@ Le cas général : fièvre, puis toux, puis, une semaine après, difficulté à 
 # Protection
 
 ## Mains
-* Savon
+* Savon [[1]](https://www.lepoint.fr/sante/comment-eliminer-le-coronavirus-sur-sa-peau-26-03-2020-2368911_40.php)
 * Gel hydroalcoolique (Par ex : [ANIOSGEL 85 NPC](https://www.phimedical.fr/desinfection/hygiene-des-mains/gel-hydroalcoolique-aniosgel-85-npc-flacon-de-1-l-au-choix.html?search_query=aniosgel&results=5))[[1]](https://www.youtube.com/watch?v=PK8h0QPzbOg)
 * Gants latex ou vinyl (Par ex : [MAPA Confort Pro x100](https://www.amazon.fr/Mapa-Gants-M%C3%A9nage-Confort-Taille/dp/B06XWVLDMG), dispo chez Carrefour)
 
