@@ -1,7 +1,7 @@
 # Recommandations générales [[1]](https://www.ameli.fr/assure/sante/themes/gestes-barrieres/les-4-gestes-barrieres-adopter-pour-limiter-la-transmission-des-virus-de-lhiver)[[2]](https://www.gouvernement.fr/info-coronavirus)[[3]](https://www.who.int/fr/emergencies/diseases/novel-coronavirus-2019/advice-for-public)[[4]](https://www.cdc.gov/handwashing/show-me-the-science-handwashing.html)[[5]](https://www.reddit.com/r/COVID19/comments/fcdcgr/good_advice_on_protecting_yourself_from/)
 * Se laver les mains **bien** et **souvent** [[1]](https://twitter.com/MinSoliSante/status/1233056539583315968?s=20)[[2]](https://twitter.com/MinSoliSante/status/1238362910541393920?s=20)
 * Ne pas se toucher le visage
-* Ne pas rester près des gens louches (toux, etc.)
+* Ne pas rester près des gens louches (toux, etc.) [[1]](https://www.independent.ie/world-news/coronavirus/two-metres-not-enough-when-social-distancing-39083182.html)
 * Faire attention aux toilettes (fermer le capot avant de tirer la chasse)
 * Tousser dans le coude (pour ne pas contaminer les mains)
 
