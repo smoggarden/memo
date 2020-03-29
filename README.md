@@ -71,6 +71,7 @@ Le cas général : fièvre, puis toux, puis, une semaine après, difficulté à 
 * Toux : 68 % pour les cas hospitalisés
 * Difficulté à respirer
 * Parfois faiblesse générale (comme la grippe)
+* Perte du goût et de l'odorat. 
 * Et, rarement, des troubles gastro-intestinaux
 
 ## Résistance
