@@ -111,7 +111,7 @@ Le consensus général : inutiles pour le grand public. Ils offrent une protecti
 * Durée de vie : 8 h selon les fabriquants mais l'utilisation peut être étendue sans trop dégrader la protection à condition de respecter les contraintes : [[1]](https://www.cdc.gov/niosh/topics/hcwcontrols/recommendedguidanceextuse.html)
 
 ### Masques faits à la maison
-[[1]](https://www.consumer.org.hk/ws_en/news/specials/2020/mask-diy-tips.html)[[2]](https://knowm.org/a-current-list-of-diy-masks-for-the-covid-19-pandemic/)
+[[1]](https://www.consumer.org.hk/ws_en/news/specials/2020/mask-diy-tips.html)[[2]](https://knowm.org/a-current-list-of-diy-masks-for-the-covid-19-pandemic/)[[3]](https://www.youtube.com/watch?v=7Lg0jnJ3hEo&feature=youtu.be&t=125)
 
 ## Surfaces
 * Javel diluée à 0,1-0,2 %. Plus forte concentration reste efficace, mais peut abimer les objets. [[1]](https://www.reddit.com/r/COVID19/comments/f8bpur/persistence_of_coronaviruses_on_inanimate/) (Attention à ne pas mélanger la javel avec ce qui est acide, ça crée des vapeurs toxiques dangereuses).
