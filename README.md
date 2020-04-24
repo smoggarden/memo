@@ -72,7 +72,8 @@ Le cas général : fièvre, puis toux, puis, une semaine après, difficulté à 
 * Difficulté à respirer
 * Parfois faiblesse générale (comme la grippe)
 * Perte du goût et de l'odorat. 
-* Et, rarement, des troubles gastro-intestinaux
+* Des troubles gastro-intestinaux (rare)
+* Engelures ? [[1]](https://www.sciencesetavenir.fr/sante/dermato/coronavirus-des-engelures-aux-mains-ou-aux-pieds-pourraient-etre-un-nouveau-symptome-du-covid-19_143285)
 
 ## Résistance
 * Jusqu'à 9 jours à température ambiante, sur une surface [[1]](https://www.reddit.com/r/COVID19/comments/f8bpur/persistence_of_coronaviruses_on_inanimate/)[[2]](https://qz.com/1810508/covid-19-can-likely-live-up-to-96-hours-on-your-phone/?utm_source=reddit.com)[[3]](https://www.pbs.org/newshour/health/preliminary-research-suggests-new-virus-may-live-on-some-surfaces-for-up-to-3-days)[[4]](https://www.who.int/fr/emergencies/diseases/novel-coronavirus-2019/advice-for-public/q-a-coronaviruses)[[5]](https://www.reddit.com/r/COVID19/comments/fh2xz9/aerosol_and_surface_stability_of_hcov19_sarscov2/)[[6]](https://www.ncbi.nlm.nih.gov/pubmed/14631830)[[7]](https://www.nih.gov/news-events/news-releases/new-coronavirus-stable-hours-surfaces)[[8]](https://www.lemonde.fr/les-decodeurs/article/2020/03/26/coronavirus-combien-de-temps-le-sars-cov-2-reste-t-il-infectieux-sur-des-surfaces_6034549_4355770.html)
