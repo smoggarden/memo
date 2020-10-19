@@ -60,7 +60,7 @@ Il est présent :
 * Quarantaine recommandée : 14 jours (la Chine recommande maintenant 28 jours [[1]](https://www.reddit.com/r/Coronavirus/comments/feql65/wuhan_increases_patient_quarantine_to_28_days/))
 
 ### Période de contagiosité [[1]](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30566-3/fulltext#back-bib33)
-* Minimum : ?
+* Minimum : 1-2 jours après infection
 * Médiane : 20 jours après infection
 * Maximum : 37 jours après infection
 * Moins contagieux que la grippe quand il n'y a pas de symptômes [[1]](https://www.who.int/fr/emergencies/diseases/novel-coronavirus-2019/advice-for-public/q-a-coronaviruses)
