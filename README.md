@@ -122,7 +122,7 @@ Le consensus général : inutiles pour le grand public. Ils offrent une protecti
   * Eau oxygénée (peroxyde d'hydrogène) à 0,5 % [[1]](https://www.journalofhospitalinfection.com/article/S0195-6701(20)30046-3/abstract)
 
 # Traitement 
-* Il n'y a pour l'instant aucun traitement direct efficace. Des traitements sont néanmoins utilisés pour tenter de réduire les symptômes des cas sévères ou à risques (antiviraux, etc.). Un traitement récent est le Remdesivir, mais l'efficacité est très limitée.
+* Il n'y a pour l'instant aucun traitement direct efficace. Des traitements sont néanmoins utilisés pour tenter de réduire les symptômes des cas sévères ou à risques (antiviraux, etc.). 
 * Le système immunitaire arrive à créer l'immunité en dix jours après l'apparition des symptômes. Le tout est d'éviter les complications. 
 
 ## Comment réagir si on a des symptômes [[1]](https://www.reddit.com/r/france/comments/fpz5qv/jai_le_covid19_depuis_3_jours_voici_les/)
